@@ -1,0 +1,8 @@
+Learning Path to Become a Prompt Engineering Specialist
+https://www.analyticsvidhya.com/blog/2024/07/prompt-engineer/
+
+Your Ultimate Prompt Engineering Cheatsheet
+https://www.analyticsvidhya.com/blog/2024/02/prompt-engineering-cheatsheet/
+
+A developer’s guide to prompt engineering and LLMs
+https://github.blog/ai-and-ml/generative-ai/prompt-engineering-guide-generative-ai-llms/
